@@ -1,0 +1,6 @@
+{
+  "name": "Laboratorio de Precios | Zoraya Forero",
+  "description": "Aplicación ejecutiva y econométrica para estimar curvas de demanda, calcular elasticidad precio, evaluar productos complementarios y optimizar precios comerciales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
